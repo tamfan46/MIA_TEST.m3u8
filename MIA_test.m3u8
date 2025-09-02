@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="dubaisports" tvg-name="Dubai Sports" tvg-logo="https://example.com/logo.png" group-title="ช่องกีฬาต่างประเทศ",Dubai Sports
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1000000.m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://31.220.3.103:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186563&extension=m3u8
